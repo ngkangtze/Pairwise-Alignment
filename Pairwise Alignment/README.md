@@ -16,8 +16,10 @@ Operating Instructions
         | G 	| -2 	| -2 	| 5  	| -2 	| -6 	|
         | T 	| -2 	| -2 	| -2 	| 5  	| -6 	|
         | _ 	| -6 	| -6 	| -6 	| -6 	| 0  	|
-        Note that the `Symbols` on the left correspond to the first sequence and the `Symbols` on the top correspond to 
-        the second sequence. Each number represents a matching of the two `Symbols`.
+        
+    Note that the `Symbols` on the left correspond to the first sequence and the `Symbols` on the top correspond to 
+    the second sequence. Each number represents a matching of the two `Symbols`.
+        
     2. `sequences.txt` should have the following format:
         ```
         >names of the sequences
