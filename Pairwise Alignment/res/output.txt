@@ -1,0 +1,5 @@
+>alignment
+ACGGCGCGTTCTT
+A__GTGC_CTCCT
+>score
+11

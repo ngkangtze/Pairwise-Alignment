@@ -1,0 +1,3 @@
+>names of the sequences
+ACGGCGCGTTCTT
+AGTGCCTCCT
